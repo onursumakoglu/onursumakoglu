@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onur Sumakoğlu
-- 👀 I’m interested in Android Programming and Backend Development.
-- 🌱 I’m currently learning ASP.Net Core.
+- 👀 I’m interested in Mobile Programming and Backend Development.
+- 🌱 I'm currently working to improve myself in the field of mobile programming.
 
 
 <!---
