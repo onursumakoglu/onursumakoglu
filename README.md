@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onur Sumakoğlu
 - 👀 I’m interested in Mobile Application Programming.
-- 🌱 I'm currently working to improve myself in the field of mobile programming.
+- 🌱 I'm currently working to improve myself in the field.
 
 
 <!---
