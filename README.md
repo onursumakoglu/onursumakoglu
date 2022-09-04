@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Onur Sumakoğlu
-- 👀 I’m interested in Mobile Programming and Backend Development.
+- 👀 I’m interested in Mobile Application Programming.
 - 🌱 I'm currently working to improve myself in the field of mobile programming.
 
 
